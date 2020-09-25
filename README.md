@@ -1,11 +1,8 @@
 ### Hi boys 👋
 
-- 🌈 I’m currently working on home. 😎
-- 🐳 I’m currently learning rust\k8s. 😅
-- 🤔 I'm thinking about how to make more+ money. 😁
-- 💬 Ask me about `da bao jian`. 😍
-- 📫 How to reach me: [xiaorui.cc](http://xiaorui.cc)
+- 🌈 I’m currently working hard 
+- 📫 How to reach me: [https://blog.csdn.net/orangleliu](https://blog.csdn.net/orangleliu)
 
-[![rfyiamcool's github stats](https://github-readme-stats.vercel.app/api?username=rfyiamcool)](https://github.com/rfyiamcool)
+[![orangle's github stats](https://github-readme-stats.vercel.app/api?username=orangle)](https://github.com/orangle)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=rfyiamcool.rfyiamcool" alt="visitor badge"/> 
+<img src="https://visitor-badge.laobi.icu/badge?page_id=orangle/orangle" alt="visitor badge"/> 
