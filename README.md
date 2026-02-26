@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=500&lines=Code+%2F+Infra+%2F+OpenResty;Build.+Break.+Rebuild." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2800&pause=800&color=00F5FF&background=0f0c29&center=true&vCenter=true&width=500&lines=Code+%2F+Infra+%2F+Devops;Build.+Break.+Rebuild." />
 </p>
 
 <p align="center">
